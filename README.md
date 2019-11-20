@@ -1,6 +1,6 @@
 # The DOM Challenge
 
-I built this small application inside as I learned about JavaScript in Flatiron School's Software Engineering Immersive Bootcamp. It has a few features:
+I built this small application during Flatiron School's Software Engineering Immersive Bootcamp while initially learning about JavaScript functionalities. It has a few features:
 
 *   A Counter that increases by 1 each second
 *   Plus and Minus buttons that increment or decrement the counter
@@ -25,6 +25,6 @@ The deliverables for the practice are included below. They describe the features
     When 'resume' is clicked, it should restart the counter and re-enable the buttons.
 5.  As a user, I can leave comments on my gameplay, such as: "Wow, what a fun game this is."
 
-To view the lesson and play with the code, please click on [DOM Challenge](https://learn.co/lessons/jsdom-dom-challenge) and start learning to code for free on Learn.co.
+To view the lesson and play with the code, please click on [Flatiron School's DOM Challenge page](https://learn.co/lessons/jsdom-dom-challenge) and start learning to code for free on Learn.co.
 
-Head back to the [DOM Challenge page](https://geewey.github.io/dom-challenge/).
+Head back to my [DOM Challenge site](https://geewey.github.io/dom-challenge/).
