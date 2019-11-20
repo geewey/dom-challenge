@@ -27,4 +27,4 @@ The deliverables for the practice are included below. They describe the features
 
 To view the lesson and play with the code, please click on [DOM Challenge](https://learn.co/lessons/jsdom-dom-challenge) and start learning to code for free on Learn.co.
 
-Head back to the [DOM Challenge page](index.html).
+Head back to the [DOM Challenge page](https://geewey.github.io/dom-challenge/).
